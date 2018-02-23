@@ -1,2 +1,2 @@
 # CreativeCase
-Code share for CreativeCase plug-ins
+Common code share for the CC plug-ins
