@@ -17,17 +17,17 @@
         <entry file="file://$PROJECT_DIR$/primGen/delete_and_bake.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
-              <caret line="3" column="83" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="83" />
+              <caret line="3" column="83" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="83" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="align_to_surface.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="align_to_surface.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/primGen/align_to_surface.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="4" lean-forward="false" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="55" />
+            <state relative-caret-position="334">
+              <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
               <folding>
                 <element signature="e#139#163#0" expanded="true" />
               </folding>
@@ -39,7 +39,7 @@
         <entry file="file://$PROJECT_DIR$/primGen/snap_curves_to_mesh.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
-              <caret line="2" column="46" lean-forward="true" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="46" />
+              <caret line="2" column="46" lean-forward="false" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="46" />
               <folding>
                 <element signature="e#130#154#0" expanded="true" />
               </folding>
@@ -51,18 +51,18 @@
         <entry file="file://$PROJECT_DIR$/primGen/disable_overrides_on_selected.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
-              <caret line="2" column="67" lean-forward="true" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="67" />
+              <caret line="2" column="67" lean-forward="false" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="67" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="68">
-                <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <first_editor relative-caret-position="119">
+                <caret line="7" column="57" lean-forward="false" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -222,20 +222,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/primGen/align_to_surface.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="4" lean-forward="false" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="55" />
-          <folding>
-            <element signature="e#139#163#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/primGen/delete_and_bake.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="3" column="83" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="83" />
+          <caret line="3" column="83" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="83" />
           <folding />
         </state>
       </provider>
@@ -243,7 +233,7 @@
     <entry file="file://$PROJECT_DIR$/primGen/disable_overrides_on_selected.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="67" lean-forward="true" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="67" />
+          <caret line="2" column="67" lean-forward="false" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="67" />
           <folding />
         </state>
       </provider>
@@ -251,7 +241,7 @@
     <entry file="file://$PROJECT_DIR$/primGen/snap_curves_to_mesh.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="46" lean-forward="true" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="46" />
+          <caret line="2" column="46" lean-forward="false" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="46" />
           <folding>
             <element signature="e#130#154#0" expanded="true" />
           </folding>
@@ -261,11 +251,21 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="68">
-            <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <first_editor relative-caret-position="119">
+            <caret line="7" column="57" lean-forward="false" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/primGen/align_to_surface.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding>
+            <element signature="e#139#163#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
