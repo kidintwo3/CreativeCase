@@ -3,6 +3,8 @@ Common code share for the CC plug-ins
 
 _Python snippets:_
 
+**PrimGen:**
+
 - `align_to_surface.py` _- Aligns the primgen object upvector to a target mesh_
 - `delete_and_bake.py` _- Has the same functionality as the "Bake mesh / delete node" button on the node._
 - `disable_overrides_on_selected.py` _- Disables the baseMesh display overrides on the selected objects_
