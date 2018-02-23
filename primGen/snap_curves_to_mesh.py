@@ -2,6 +2,9 @@
 
     Snaps the selected curves to a target mesh
 
+    Usage:
+        Target mesh is given trough the "geo_name" variable
+
 """
 
 import maya.cmds as cmds

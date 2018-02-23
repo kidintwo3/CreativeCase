@@ -3,6 +3,9 @@
     Small utility script for PrimGen.
     Has the same functionality as the "Bake mesh / delete node" button on the node.
     You can assign this to a shortcut.
+
+    Usage:
+        Select curves and run script
     
 """
 
