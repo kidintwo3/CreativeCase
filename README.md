@@ -10,3 +10,6 @@ _Python snippets:_
 - `disable_overrides_on_selected.py` _- Disables the baseMesh display overrides on the selected objects_
 - `snap_curves_to_mesh.py` _- Snaps the selected curves to a target mesh_
 
+**BaseLocator:**
+
+- `debug_mode_example.py` _- Debug mode example file. See the youtube tutorial for help_
